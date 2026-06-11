@@ -10,3 +10,6 @@ An executive-level business intelligence application engineered in Power BI to d
 * **Data Modeling:** Star-schema architecture connecting dimensional brand metadata to multi-year fact records.
 * **Advanced DAX:** Implemented filter-proof context isolation via `ALL()` parameters to preserve macro benchmarks during micro-slicer selections.
 * **Dynamic Analytics:** Leveraged calculated relational tables to enable a responsive, cross-filtered brand diagnostic chart.
+
+## Interactive Demonstration
+![Luxury Index Dashboard Preview](images/your-recording-name.gif)
