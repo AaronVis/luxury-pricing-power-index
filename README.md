@@ -12,4 +12,4 @@ An executive-level business intelligence application engineered in Power BI to d
 * **Dynamic Analytics:** Leveraged calculated relational tables to enable a responsive, cross-filtered brand diagnostic chart.
 
 ## Interactive Demonstration
-![Luxury Index Dashboard Preview](luxury-pricing-power-index/blob/main/Dashboard.gif)
+![Luxury Index Dashboard Preview](https://github.com/AaronVis/luxury-pricing-power-index/blob/main/Dashboard.gif?raw=true)
